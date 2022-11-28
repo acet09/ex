@@ -727,11 +727,11 @@ nav {
   stroke-linecap: round;
 }
 
-#prevbutton {
+.prevbutton {
   left: 30px;
 }
 
-#nextbutton {
+.nextbutton {
   right: 30px;
 }
 
